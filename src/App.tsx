@@ -2,7 +2,8 @@ import './App.css'
 import { useCcc } from '@ckb-ccc/connector-react'
 
 function App() {
-  const {open} = useCcc();
+  const {open,wallet} = useCcc();
+  console.log(wallet)
 
   return (
     <>

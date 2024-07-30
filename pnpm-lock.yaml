@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@ckb-ccc/connector-react':
-        specifier: 0.0.5-alpha.9
-        version: 0.0.5-alpha.9(@types/react@18.3.3)(typescript@5.5.2)
+        specifier: 0.0.10-alpha.6
+        version: 0.0.10-alpha.6(@types/react@18.3.3)(typescript@5.5.2)
       react:
         specifier: ^18.3.1
         version: 18.3.1
@@ -164,29 +164,32 @@ packages:
     resolution: {integrity: sha512-XEFXSlxiG5td2EJRe8vOmRbaXVgfcBlszKujvVmWIK/UpywWljQCfzAv3RQCGujWQ1RD4YYWEAqDXfuJiy8f5Q==}
     engines: {node: '>=6.9.0'}
 
-  '@ckb-ccc/ccc@0.0.5-alpha.8':
-    resolution: {integrity: sha512-Tx7Y6ltR/BLZGsfWQQr/XFmd7rHah1tqKOnCohqqACKidfiPOkfQ4ie1+MpEgt1649JVzK+2843sh3IM2fTLUw==}
+  '@ckb-ccc/ccc@0.0.10-alpha.6':
+    resolution: {integrity: sha512-mtGjA29X0X+LyAMf1hpkdXfOb9Y78pavo5TvQCsdcORnCMNDNNy2L1nknAHwkoLEV5YK+pKbL2j0gpyh/zmgmw==}
 
-  '@ckb-ccc/connector-react@0.0.5-alpha.9':
-    resolution: {integrity: sha512-EsQ9WlWsbYWmiElhzTG8lhN23Ey7tdMAwFzvvLcvNcdBfQi1zty3l53lZ4bLguhEdcocvExsk7/R/9znHgxR8A==}
+  '@ckb-ccc/connector-react@0.0.10-alpha.6':
+    resolution: {integrity: sha512-lCIWAQhT/SJVFONZw0XuAamvG1bmkgHOrgiDcGqHg514pHWlv6l5BN0w8c0DIQY0N1q2Rj2RkimqRTOgP/Zo/w==}
 
-  '@ckb-ccc/connector@0.0.5-alpha.9':
-    resolution: {integrity: sha512-cSI9JqQ22B3eDm9ewevuic87ffbvNq8CYtuXuNy81hSgx496lVFA3m/bBEHt/94ina7EYqL+h57ZD9mcvw4qpw==}
+  '@ckb-ccc/connector@0.0.10-alpha.6':
+    resolution: {integrity: sha512-BppkQ00f0GW3+VUQpN0w1KPCgg9aoJzsvhS6p69FbXel2ReuzcDplENEmkrpPEQNCPo8hgU6KaNTv6LlaIrv5w==}
 
-  '@ckb-ccc/core@0.0.5-alpha.8':
-    resolution: {integrity: sha512-Z8f57tvnAR58H0+RukYkE/z/VhpYyXTKe9Mm1nT23CSVzB4sV+a3uSAq0oSQ4SOB1HpYMdrLst6TLprq6Y3KCQ==}
+  '@ckb-ccc/core@0.0.10-alpha.6':
+    resolution: {integrity: sha512-azmjqspEZSx/tHkuvMd4yAvVP3aeN8Gj0qbII13yIYtkyKRMWUlKwqJGH1PzKuv05j99/Yig0qF9AxODMrn9BQ==}
 
-  '@ckb-ccc/eip6963@0.0.5-alpha.8':
-    resolution: {integrity: sha512-JFwVCNybxgVP+pVUF7W2iKxIeIsUFz7QaCFAZHR1hYmvBOTrRWkhBDZ9m2jFk4Y3TA9tr3XxzAOfyL7p4qSXTg==}
+  '@ckb-ccc/eip6963@0.0.10-alpha.6':
+    resolution: {integrity: sha512-3lEU58/T3+Xh5UW8t/cq8lKBC3WNNZsZgICWsw61kIEp0m8vwA05w44zpEFFfHqvVrAU4wKM6u0oDuW8hT/kKg==}
 
-  '@ckb-ccc/joy-id@0.0.5-alpha.8':
-    resolution: {integrity: sha512-4STnAbH1BE9qXORh8NDbXbybgoYVSTelgXPnejTft8J2FRnfjjN9xoHrVZ8iaE6WPVLy+n1bBAW+HgvkUNT//g==}
+  '@ckb-ccc/joy-id@0.0.10-alpha.6':
+    resolution: {integrity: sha512-VIWkpeOnc4BtHPdHf+cUrBLP8PEjbRYWUoTzH4/fTGQ1GgtxlVj7DMk4RlOyJnIlUm6i6VLFm0BaliSv+39brg==}
 
-  '@ckb-ccc/okx@0.0.5-alpha.8':
-    resolution: {integrity: sha512-gLWWoEPIUuyHwCYQxjfoF4m1ipneCi2BOf/s08Et3VRTBs0mBIvwwom6WStFHjOXXYfsHvoS5y9NzSwtro6ECw==}
+  '@ckb-ccc/nip07@0.0.10-alpha.6':
+    resolution: {integrity: sha512-W1Og/Bj2TOwURFviSz3L3+bQ+y43IkLoyLpF1aDl/ZoRWk/1JM1ATTX8hGCrz2jHDD2Ym/9Wj5CPqeVm49G1qA==}
 
-  '@ckb-ccc/uni-sat@0.0.5-alpha.8':
-    resolution: {integrity: sha512-zN1FlrP1GW6gi5GRAFMy0+Vp+kewalGnptvaMUKetSNB6gwW9z0lQ+DcFMnynJ+V5XRF077CnOJgoyZ7Z3g50Q==}
+  '@ckb-ccc/okx@0.0.10-alpha.6':
+    resolution: {integrity: sha512-FwQXcrjyJNOuXPZPHI/VEOCzNOKXE3wTqdZ4G72pT3OZTRQwlsPIuqwlS8VPJwR1fPihtJNCkZVuhy+5RGKDgw==}
+
+  '@ckb-ccc/uni-sat@0.0.10-alpha.6':
+    resolution: {integrity: sha512-U2ATuyarK7I+YFcZaYC7cuRxv76zf8cOAe22mTg8/DbvQRDtFiMQwIFwt7xVGl0YAwXy1guOix3bKKxV4MJlxw==}
 
   '@ckb-lumos/base@0.22.2':
     resolution: {integrity: sha512-nosUCSa5rTV2IzxbEpqzrvUeQNXB66mgA0h40+QEdnE/gV/s4ke83AScrTAxWkErJy1G/sToIHCc2kWwO95DfQ==}
@@ -385,11 +388,11 @@ packages:
     resolution: {integrity: sha512-93zYdMES/c1D69yZiKDBj0V24vqNzB/koF26KPaagAfd3P/4gUlh3Dys5ogAK+Exi9QyzlD8x/08Zt7wIKcDcA==}
     deprecated: Use @eslint/object-schema instead
 
-  '@joyid/ckb@0.0.11':
-    resolution: {integrity: sha512-Nxl+vHju57qChP+QI3ycnlTpQCLsQc+Kp/YUxjDoPkbHikBXPsKGyvTOgO1RIqZMAoQpYbO6FDt1P+nIVxVVCQ==}
+  '@joyid/ckb@1.0.1':
+    resolution: {integrity: sha512-pKAJouigChqcwKgtLw4RNOwi+nBh3NVjpU+qZd+uu3wmoTpivnSRLbJH8/SlkgQcWn2aJ+mDJchR8GpQYh5H6Q==}
 
-  '@joyid/common@0.0.3':
-    resolution: {integrity: sha512-bih1dRqFpNP6tLNpebO2pp72r8L9WFtlGUa7a2x3l336G66ieS1uyNGb/yZzY+f3Fs1E40s10m7D+qSnfwtjJQ==}
+  '@joyid/common@0.2.0':
+    resolution: {integrity: sha512-WBZtgdEccWxjiGHIoDgRFIbnC42ZvmfvFRCTxmx9D4BLvtiFdhAa+g70lUmiHwO28GjgHIHgzHRGNRdLuk81xw==}
 
   '@jridgewell/gen-mapping@0.3.5':
     resolution: {integrity: sha512-IzL8ZoEDIBRWEzlCcRhOaCupYyN5gdIK+Q6fbFdPDg6HqX6jpkItn7DFIpW9LQzXG6Df9sA7+OKnq0qlz/GaQg==}
@@ -420,14 +423,17 @@ packages:
   '@lit/reactive-element@2.0.4':
     resolution: {integrity: sha512-GFn91inaUa2oHLak8awSIigYz0cU0Payr1rcFsrkf5OJ5eSPxElyZfKh0f2p9FsTiZWXQdWGJeXZICEfXXYSXQ==}
 
-  '@nervosnetwork/ckb-sdk-utils@0.109.1':
-    resolution: {integrity: sha512-KK8w+JZGPt/Gq/Y0b87AuQp8mGR46fBSkqnjwASdBAi2rts9tJ6srEaZ3FVVa9LtjTlThQ120hex+mcyastrkQ==}
+  '@nervosnetwork/ckb-sdk-utils@0.109.2':
+    resolution: {integrity: sha512-pXgQvQQA2TuXiAmKGvL9kWjXdCsX+qP8HqHSLt6kwrjFe846d4dZxZ5AunpP+xsQNst+L5V7xcvunaBOkTdD6g==}
 
-  '@nervosnetwork/ckb-types@0.109.1':
-    resolution: {integrity: sha512-mD5mOCGa1JertKZekHSUVYwFPW27VJ0/MdwblWvEEK7pNIU6az+dLiIxgvl4TxR+j+7/GqmXNH1U59CM92y/wg==}
+  '@nervosnetwork/ckb-types@0.109.2':
+    resolution: {integrity: sha512-NAQbUi+j6tWlUYijvHqWIUwrbawIeAeSlxUQm0wkqSKbtAEoiR4L6RZS7cgn7uH+SMsp78mciXP8gixrfH3rEQ==}
 
   '@noble/curves@1.2.0':
     resolution: {integrity: sha512-oYclrNgRaM9SsBUBVbb8M6DTV7ZHRTKugureoYEncY5c65HOmRzvSiTE3y5CYaPYJA/GVkrhXEoF0M3Ya9PMnw==}
+
+  '@noble/curves@1.4.2':
+    resolution: {integrity: sha512-TavHr8qycMChk8UwMld0ZDRvatedkzWfH8IiaeGCfymOP5i0hSCozz9vHOL0nkwk7HRMlFnAiKpS2jrUmSybcw==}
 
   '@noble/hashes@1.3.2':
     resolution: {integrity: sha512-MVC8EAQp7MvEcm30KWENFjgR+Mkmf+D189XJTkFIlwohU5hcBbn1ZkKq7KVTi2Hme3PMGF390DaL52beVrIihQ==}
@@ -571,8 +577,8 @@ packages:
   '@types/lodash.isequal@4.5.8':
     resolution: {integrity: sha512-uput6pg4E/tj2LGxCZo9+y27JNyB2OZuuI/T5F+ylVDYuqICLG2/ktjxx0v6GvVntAf8TvEzeQLcV0ffRirXuA==}
 
-  '@types/lodash@4.17.6':
-    resolution: {integrity: sha512-OpXEVoCKSS3lQqjx9GGGOapBeuW5eUboYHRlHP9urXPX25IKZ6AnP5ZRxtVf63iieUbsHxLn8NQ5Nlftc6yzAA==}
+  '@types/lodash@4.17.7':
+    resolution: {integrity: sha512-8wTvZawATi/lsmNu10/j2hk1KEP0IvjubqPE3cu1Xz7xfXXt5oCq3SNUz4fMIP4XGF9Ky+Ue2tBA3hcS7LSBlA==}
 
   '@types/node@18.15.13':
     resolution: {integrity: sha512-N+0kuo9KgrUQ1Sn/ifDXsvg0TTleP7rIy4zOBGECxAljqvqfqpTfzx0Q1NUedOixRMBfe2Whhb056a42cWs26Q==}
@@ -650,10 +656,6 @@ packages:
   '@ungap/structured-clone@1.2.0':
     resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
 
-  '@unisat/wallet-utils@1.0.0':
-    resolution: {integrity: sha512-LkxCDY0AlEodcc/tU6YCzI1vDfdzVeMqgA3tOF3MI6fvjXGyNR4cv/DYo+VLVt9bNqqYyNdiClwlUXxujPXZOQ==}
-    engines: {node: '>=14.0.0'}
-
   '@vitejs/plugin-react@4.3.1':
     resolution: {integrity: sha512-m/V2syj5CuVnaxcUJOQRel/Wr31FFXRFlnOoq1TVtkCxsY5veGMTEmpWHndrhB2U8ScHtCQB1e+4hWYExQc6Lg==}
     engines: {node: ^14.18.0 || >=16.0.0}
@@ -724,33 +726,33 @@ packages:
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
-  base-x@3.0.9:
-    resolution: {integrity: sha512-H7JU6iBHTal1gp56aKoaa//YUxEaAOUiydvrV/pILqIHXTtqxSkATOnDA2u+jZ/61sD+L/412+7kzXRtWukhpQ==}
+  base-x@3.0.10:
+    resolution: {integrity: sha512-7d0s06rR9rYaIWHkpfLIFICM/tkSVdoPC9qYAQRpxn9DdKNWNsKC0uk++akckyLq16Tx2WIinnZ6WRriAt6njQ==}
 
   base64-js@1.5.1:
     resolution: {integrity: sha512-AKpaYlHn8t4SVbOHCy+b5+KKgvR4vrsD8vbvrbiQJps7fKDTkjkDry6ji0rUJjC0kzbNePLwzxq8iypo41qeWA==}
 
+  bech32@1.1.4:
+    resolution: {integrity: sha512-s0IrSOzLlbvX7yp4WBfPITzpAU8sqQcpsmwXDiKwrG4r491vwCO/XpejasRNl0piBMe/DvP4Tz0mIS/X1DPJBQ==}
+
   bech32@2.0.0:
     resolution: {integrity: sha512-LcknSilhIGatDAsY1ak2I8VtGaHNhgMSYVxFrGLXv+xLHytaKZKcaUJJUE7qmBr7h33o5YQwP55pMI0xmkpJwg==}
 
-  bigi@1.4.2:
-    resolution: {integrity: sha512-ddkU+dFIuEIW8lE7ZwdIAf2UPoM90eaprg5m3YXAVVTmKlqV/9BX4A2M8BOK2yOq6/VgZFVhK6QAxJebhlbhzw==}
+  bindings@1.5.0:
+    resolution: {integrity: sha512-p2q/t/mhvuOj/UeLlV6566GD/guowlr0hHxClI0W9m7MWYkL1F0hLo+0Aexs9HSPCtR1SXQ0TD3MMKrXZajbiQ==}
 
-  bip-schnorr@0.6.4:
-    resolution: {integrity: sha512-dNKw7Lea8B0wMIN4OjEmOk/Z5qUGqoPDY0P2QttLqGk1hmDPytLWW8PR5Pb6Vxy6CprcdEgfJpOjUu+ONQveyg==}
-    engines: {node: '>=8.0.0'}
+  bip66@1.1.5:
+    resolution: {integrity: sha512-nemMHz95EmS38a26XbbdxIYj5csHd3RMP3H5bwQknX0WYHF01qhpufP42mLOwVICuH2JmhIhXiWs89MfUGL7Xw==}
 
-  bitcore-lib@10.0.36:
-    resolution: {integrity: sha512-yGSiEubYzabCYZ5/qu9ji5P/kfLkXpBgm1lAblVO2ESuD9ep7aaG6TRd3K5ips4pWgW/uRQpbiErT6pw2Ke/AQ==}
+  bitcoinjs-message@2.2.0:
+    resolution: {integrity: sha512-103Wy3xg8Y9o+pdhGP4M3/mtQQuUWs6sPuOp1mYphSUoSMHjHTlkj32K4zxU8qMH0Ckv23emfkGlFWtoWZ7YFA==}
+    engines: {node: '>=0.10'}
 
   blake2b-wasm@2.4.0:
     resolution: {integrity: sha512-S1kwmW2ZhZFFFOghcx73+ZajEfKBqhP82JMssxtLVMxlaPea1p9uoLiUZ5WYyHn0KddwbLc+0vh4wR0KBNoT5w==}
 
   blake2b@2.1.4:
     resolution: {integrity: sha512-AyBuuJNI64gIvwx13qiICz6H6hpmjvYS5DGkG6jbXMOT8Z3WUJ3V1X0FlhIoT1b/5JtHE3ki+xjtMvu1nn+t9A==}
-
-  bn.js@4.11.8:
-    resolution: {integrity: sha512-ItfYfPLkWHUjckQCk8xC+LwxgK8NYcXywGigJgSwOP8Y2iyWT4f2vsZnoOXTTbo+o5yXmIUJ4gn5538SO5S3gA==}
 
   bn.js@4.12.0:
     resolution: {integrity: sha512-c98Bf3tPniI+scsdk237ku1Dc3ujXQTSgyiPUDEOe7tRkhrqridvh8klBv0HCEso1OLOYcHuCv/cS6DNxKH+ZA==}
@@ -801,8 +803,12 @@ packages:
   bs58@4.0.1:
     resolution: {integrity: sha512-Ok3Wdf5vOIlBrgCvTq96gBkJw+JUEzdBgyaza5HLtPm7yTHkjRy8+JzNyHF7BHa0bNWOQIp3m5YF0nnFcOIKLw==}
 
-  buffer-compare@1.1.1:
-    resolution: {integrity: sha512-O6NvNiHZMd3mlIeMDjP6t/gPG75OqGPeiRZXoMQZJ6iy9GofCls4Ijs5YkPZZwoysizLiedhticmdyx/GyHghA==}
+  bs58check@2.1.2:
+    resolution: {integrity: sha512-0TS1jicxdU09dwJMNZtVAfzPi6Q6QeN0pM1Fkzrjn+XYHvzMKPU3pHVpva+769iNVSfIYWf7LJ6WR+BuuMf8cA==}
+
+  buffer-equals@1.0.4:
+    resolution: {integrity: sha512-99MsCq0j5+RhubVEtKQgKaD6EM+UP3xJgIvQqwJ3SOLDUekzxMX1ylXBng+Wa2sh7mGT0W6RUly8ojjr1Tt6nA==}
+    engines: {node: '>=0.10.0'}
 
   buffer-xor@1.0.3:
     resolution: {integrity: sha512-571s0T7nZWK6vB67HI5dyUF7wXiNcfaPPPTl6zYCNApANjIvYJTg7hlud/+cJpdAhS7dVzqMLmfhfHR3rAcOjQ==}
@@ -935,8 +941,9 @@ packages:
     resolution: {integrity: sha512-ArzcM/II1wCCujdCNyQjXrAFwS4mrLh4C7DZWlaI8mdh7h3BfKdNd3bKXITfl2PT9FtfQqaGvhi1vPRQPimjGA==}
     engines: {node: '>=10'}
 
-  ecurve@1.0.6:
-    resolution: {integrity: sha512-/BzEjNfiSuB7jIWKcS/z8FK9jNjmEWvUV2YZ4RLSmcDtP7Lq0m6FvDuSnJpBlDpGRpfRQeTLGLBI8H+kEv0r+w==}
+  drbg.js@1.0.1:
+    resolution: {integrity: sha512-F4wZ06PvqxYLFEZKkFxTDcns9oFNk34hvmJSEwdzsxVQ8YI5YaxtACgQatkYgv2VI2CFkUd2Y+xosPQnHv809g==}
+    engines: {node: '>=0.10'}
 
   electron-to-chromium@1.4.814:
     resolution: {integrity: sha512-GVulpHjFu1Y9ZvikvbArHmAhZXtm3wHlpjTMcXNGKl4IQ4jMQjlnz8yMQYYqdLHKi/jEL2+CBC2akWVCoIGUdw==}
@@ -1019,8 +1026,8 @@ packages:
     resolution: {integrity: sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==}
     engines: {node: '>=0.10.0'}
 
-  ethers@6.13.1:
-    resolution: {integrity: sha512-hdJ2HOxg/xx97Lm9HdCWk949BfYqYWpyw4//78SiwOLgASyfrNszfMUNB2joKjvGUdwhHfaiMMFFwacVVoLR9A==}
+  ethers@6.13.2:
+    resolution: {integrity: sha512-9VkriTTed+/27BGuY1s0hf441kqwHJ1wtN2edksEtiRvXx+soxRX3iSXTfFqq2+YwrOqbDoTHjIhQnjJRlzKmg==}
     engines: {node: '>=14.0.0'}
 
   event-target-shim@5.0.1:
@@ -1053,6 +1060,9 @@ packages:
   file-entry-cache@6.0.1:
     resolution: {integrity: sha512-7Gps/XWymbLk2QLYK4NzpMOrYjMhdIxXuIvy2QBsLE6ljuodKvdkWs/cpyJJ3CVIVpH0Oi1Hvg1ovbMzLdFBBg==}
     engines: {node: ^10.12.0 || >=12.0.0}
+
+  file-uri-to-path@1.0.0:
+    resolution: {integrity: sha512-0Zt+s3L7Vf1biwWZ29aARiVYLx7iMGnEUl9x33fbB/j3jR81u/O2LbqK+Bm1CDSNDKVtJ/YjwY7TUd5SkeLQLw==}
 
   fill-range@7.1.1:
     resolution: {integrity: sha512-YsGpe3WHLK8ZYi4tWDg2Jy3ebRz2rXowDxnld4bkQB00cc/1Zw9AWnC0i9ztDJitivtQvaI9KaLyKrc+hBW0yg==}
@@ -1172,8 +1182,8 @@ packages:
     resolution: {integrity: sha512-5Fytz/IraMjqpwfd34ke28PTVMjZjJG2MPn5t7OE4eUCUNf8BAa7b5WUS9/Qvr6mwOQS7Mk6vdsMno5he+T8Xw==}
     engines: {node: '>= 4'}
 
-  immutable@4.3.6:
-    resolution: {integrity: sha512-Ju0+lEMyzMVZarkTn/gqRpdqd5dOPaz1mCZ0SH3JV6iFw81PldE/PEB1hWVEA288HPt4WXW8O7AWxB10M+03QQ==}
+  immutable@4.3.7:
+    resolution: {integrity: sha512-1hqclzwYwjRDFLjcFxOM5AYkkG0rpFPpr1RLPMEuGczoS7YA8gLhy8SWXYRAA/XwfEHpfo3cw5JGioS32fnMRw==}
 
   import-fresh@3.3.0:
     resolution: {integrity: sha512-veYYhQa+D1QBKznvhUHxb8faxlrwUnxseDAbAp457E0wLNio2bOSKnjYDhMj+YiAq61xrMGhQk9iXVk5FzgQMw==}
@@ -1186,9 +1196,6 @@ packages:
   inflight@1.0.6:
     resolution: {integrity: sha512-k92I/b08q4wvFscXCLvqfsHCrjrF7yiXsQuIVvVE7N82W3+aqpzuUdBbfhWcy/FZR3/4IgflMgKLOsvPDrGCJA==}
     deprecated: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
-
-  inherits@2.0.1:
-    resolution: {integrity: sha512-8nWq2nLTAwd02jTqJExUYFSD/fKq6VH9Y/oG2accc/kdI0V98Bag8d5a4gi3XHz73rDWa2PvTtvcWYquKqSENA==}
 
   inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
@@ -1242,9 +1249,6 @@ packages:
   isomorphic-timers-promises@1.0.1:
     resolution: {integrity: sha512-u4sej9B1LPSxTGKB/HiuzvEQnXH0ECYkSVQU39koSwmFAxhlEAFl9RdTvLv4TOTQUgBS5O3O5fwUxk6byBZ+IQ==}
     engines: {node: '>=10'}
-
-  js-sha256@0.9.0:
-    resolution: {integrity: sha512-sga3MHh9sgQN2+pJ9VYZ+1LPwXOxuBJBA5nrR5/ofPfuiJBE2hnjsaN8se8JznOmGLN2p49Pe5U/ttafcs/apA==}
 
   js-tokens@4.0.0:
     resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
@@ -1308,9 +1312,6 @@ packages:
   lodash.merge@4.6.2:
     resolution: {integrity: sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==}
 
-  lodash@4.17.21:
-    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
-
   loose-envify@1.4.0:
     resolution: {integrity: sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==}
     hasBin: true
@@ -1351,6 +1352,9 @@ packages:
 
   ms@2.1.2:
     resolution: {integrity: sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==}
+
+  nan@2.20.0:
+    resolution: {integrity: sha512-bk3gXBZDGILuuo/6sKtr0DQmSThYHLtNCdSdXk9YkxD/jK6X2vmCyyXBBxyqZ4XcnzTyYEAThfX3DCEnLf6igw==}
 
   nanoassert@2.0.0:
     resolution: {integrity: sha512-7vO7n28+aYO4J+8w96AzhmU8G+Y/xpPDJz/se19ICsqj/momRbb9mh9ZUtkoJ5X3nTnPdhEJyc0qnM6yAsHBaA==}
@@ -1564,6 +1568,10 @@ packages:
   scheduler@0.23.2:
     resolution: {integrity: sha512-UOShsPwz7NrMUqhR6t0hWjFduvOzbtv7toDH1/hIrfRNIDBnnBWd0CwJTGvTpngVlmwGCdP9/Zl/tVrDqcuYzQ==}
 
+  secp256k1@3.8.0:
+    resolution: {integrity: sha512-k5ke5avRZbtl9Tqx/SA7CbY3NF6Ro+Sj9cZxezFzuBlLDmyqPiL8hJJ+EmzD8Ig4LUDByHJ3/iPOVoRixs/hmw==}
+    engines: {node: '>=4.0.0'}
+
   semver@6.3.1:
     resolution: {integrity: sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==}
     hasBin: true
@@ -1706,6 +1714,9 @@ packages:
 
   util@0.12.5:
     resolution: {integrity: sha512-kZf/K6hEIrWHI6XqOFUiiMa+79wE/D8Q+NCNAWclkyg3b4d2k7s0QGepNjiABc+aR3N1PAyHL7p6UcLY6LmrnA==}
+
+  varuint-bitcoin@1.1.2:
+    resolution: {integrity: sha512-4EVb+w4rx+YfVM32HQX42AbbT7/1f5zwAYhIujKXKk8NQK+JfRVl3pqT3hjNn/L+RstigmGGKVwHA/P0wgITZw==}
 
   vite-plugin-node-polyfills@0.22.0:
     resolution: {integrity: sha512-F+G3LjiGbG8QpbH9bZ//GSBr9i1InSTkaulfUHFa9jkLqVGORFBoqc2A/Yu5Mmh1kNAbiAeKeK+6aaQUf3x0JA==}
@@ -1942,13 +1953,14 @@ snapshots:
       '@babel/helper-validator-identifier': 7.24.7
       to-fast-properties: 2.0.0
 
-  '@ckb-ccc/ccc@0.0.5-alpha.8(typescript@5.5.2)':
+  '@ckb-ccc/ccc@0.0.10-alpha.6(typescript@5.5.2)':
     dependencies:
-      '@ckb-ccc/core': 0.0.5-alpha.8(typescript@5.5.2)
-      '@ckb-ccc/eip6963': 0.0.5-alpha.8(typescript@5.5.2)
-      '@ckb-ccc/joy-id': 0.0.5-alpha.8(typescript@5.5.2)
-      '@ckb-ccc/okx': 0.0.5-alpha.8(typescript@5.5.2)
-      '@ckb-ccc/uni-sat': 0.0.5-alpha.8(typescript@5.5.2)
+      '@ckb-ccc/core': 0.0.10-alpha.6(typescript@5.5.2)
+      '@ckb-ccc/eip6963': 0.0.10-alpha.6(typescript@5.5.2)
+      '@ckb-ccc/joy-id': 0.0.10-alpha.6(typescript@5.5.2)
+      '@ckb-ccc/nip07': 0.0.10-alpha.6(typescript@5.5.2)
+      '@ckb-ccc/okx': 0.0.10-alpha.6(typescript@5.5.2)
+      '@ckb-ccc/uni-sat': 0.0.10-alpha.6(typescript@5.5.2)
     transitivePeerDependencies:
       - bufferutil
       - encoding
@@ -1956,9 +1968,9 @@ snapshots:
       - utf-8-validate
       - zod
 
-  '@ckb-ccc/connector-react@0.0.5-alpha.9(@types/react@18.3.3)(typescript@5.5.2)':
+  '@ckb-ccc/connector-react@0.0.10-alpha.6(@types/react@18.3.3)(typescript@5.5.2)':
     dependencies:
-      '@ckb-ccc/connector': 0.0.5-alpha.9(typescript@5.5.2)
+      '@ckb-ccc/connector': 0.0.10-alpha.6(typescript@5.5.2)
       '@lit/react': 1.0.5(@types/react@18.3.3)
       react: 18.3.1
     transitivePeerDependencies:
@@ -1969,9 +1981,9 @@ snapshots:
       - utf-8-validate
       - zod
 
-  '@ckb-ccc/connector@0.0.5-alpha.9(typescript@5.5.2)':
+  '@ckb-ccc/connector@0.0.10-alpha.6(typescript@5.5.2)':
     dependencies:
-      '@ckb-ccc/ccc': 0.0.5-alpha.8(typescript@5.5.2)
+      '@ckb-ccc/ccc': 0.0.10-alpha.6(typescript@5.5.2)
       lit: 3.1.4
     transitivePeerDependencies:
       - bufferutil
@@ -1980,18 +1992,19 @@ snapshots:
       - utf-8-validate
       - zod
 
-  '@ckb-ccc/core@0.0.5-alpha.8(typescript@5.5.2)':
+  '@ckb-ccc/core@0.0.10-alpha.6(typescript@5.5.2)':
     dependencies:
       '@ckb-lumos/helpers': 0.22.2
-      '@joyid/ckb': 0.0.11(typescript@5.5.2)
+      '@joyid/ckb': 1.0.1(typescript@5.5.2)
+      '@noble/curves': 1.4.2
       '@noble/hashes': 1.4.0
-      '@unisat/wallet-utils': 1.0.0
       abort-controller: 3.0.0
       bech32: 2.0.0
+      bitcoinjs-message: 2.2.0
       blake2b: 2.1.4
       buffer: 6.0.3
       cross-fetch: 4.0.0
-      ethers: 6.13.1
+      ethers: 6.13.2
     transitivePeerDependencies:
       - bufferutil
       - encoding
@@ -1999,9 +2012,9 @@ snapshots:
       - utf-8-validate
       - zod
 
-  '@ckb-ccc/eip6963@0.0.5-alpha.8(typescript@5.5.2)':
+  '@ckb-ccc/eip6963@0.0.10-alpha.6(typescript@5.5.2)':
     dependencies:
-      '@ckb-ccc/core': 0.0.5-alpha.8(typescript@5.5.2)
+      '@ckb-ccc/core': 0.0.10-alpha.6(typescript@5.5.2)
     transitivePeerDependencies:
       - bufferutil
       - encoding
@@ -2009,11 +2022,11 @@ snapshots:
       - utf-8-validate
       - zod
 
-  '@ckb-ccc/joy-id@0.0.5-alpha.8(typescript@5.5.2)':
+  '@ckb-ccc/joy-id@0.0.10-alpha.6(typescript@5.5.2)':
     dependencies:
-      '@ckb-ccc/core': 0.0.5-alpha.8(typescript@5.5.2)
-      '@joyid/ckb': 0.0.11(typescript@5.5.2)
-      '@joyid/common': 0.0.3(typescript@5.5.2)
+      '@ckb-ccc/core': 0.0.10-alpha.6(typescript@5.5.2)
+      '@joyid/ckb': 1.0.1(typescript@5.5.2)
+      '@joyid/common': 0.2.0(typescript@5.5.2)
     transitivePeerDependencies:
       - bufferutil
       - encoding
@@ -2021,10 +2034,9 @@ snapshots:
       - utf-8-validate
       - zod
 
-  '@ckb-ccc/okx@0.0.5-alpha.8(typescript@5.5.2)':
+  '@ckb-ccc/nip07@0.0.10-alpha.6(typescript@5.5.2)':
     dependencies:
-      '@ckb-ccc/core': 0.0.5-alpha.8(typescript@5.5.2)
-      '@ckb-ccc/uni-sat': 0.0.5-alpha.8(typescript@5.5.2)
+      '@ckb-ccc/core': 0.0.10-alpha.6(typescript@5.5.2)
     transitivePeerDependencies:
       - bufferutil
       - encoding
@@ -2032,9 +2044,21 @@ snapshots:
       - utf-8-validate
       - zod
 
-  '@ckb-ccc/uni-sat@0.0.5-alpha.8(typescript@5.5.2)':
+  '@ckb-ccc/okx@0.0.10-alpha.6(typescript@5.5.2)':
     dependencies:
-      '@ckb-ccc/core': 0.0.5-alpha.8(typescript@5.5.2)
+      '@ckb-ccc/core': 0.0.10-alpha.6(typescript@5.5.2)
+      '@ckb-ccc/nip07': 0.0.10-alpha.6(typescript@5.5.2)
+      '@ckb-ccc/uni-sat': 0.0.10-alpha.6(typescript@5.5.2)
+    transitivePeerDependencies:
+      - bufferutil
+      - encoding
+      - typescript
+      - utf-8-validate
+      - zod
+
+  '@ckb-ccc/uni-sat@0.0.10-alpha.6(typescript@5.5.2)':
+    dependencies:
+      '@ckb-ccc/core': 0.0.10-alpha.6(typescript@5.5.2)
     transitivePeerDependencies:
       - bufferutil
       - encoding
@@ -2080,7 +2104,7 @@ snapshots:
       '@ckb-lumos/config-manager': 0.22.2
       '@ckb-lumos/toolkit': 0.22.2
       bech32: 2.0.0
-      immutable: 4.3.6
+      immutable: 4.3.7
     transitivePeerDependencies:
       - encoding
 
@@ -2201,10 +2225,10 @@ snapshots:
 
   '@humanwhocodes/object-schema@2.0.3': {}
 
-  '@joyid/ckb@0.0.11(typescript@5.5.2)':
+  '@joyid/ckb@1.0.1(typescript@5.5.2)':
     dependencies:
-      '@joyid/common': 0.0.3(typescript@5.5.2)
-      '@nervosnetwork/ckb-sdk-utils': 0.109.1
+      '@joyid/common': 0.2.0(typescript@5.5.2)
+      '@nervosnetwork/ckb-sdk-utils': 0.109.2
       cross-fetch: 4.0.0
       uncrypto: 0.1.3
     transitivePeerDependencies:
@@ -2212,7 +2236,7 @@ snapshots:
       - typescript
       - zod
 
-  '@joyid/common@0.0.3(typescript@5.5.2)':
+  '@joyid/common@0.2.0(typescript@5.5.2)':
     dependencies:
       abitype: 0.8.7(typescript@5.5.2)
       type-fest: 4.6.0
@@ -2247,19 +2271,23 @@ snapshots:
     dependencies:
       '@lit-labs/ssr-dom-shim': 1.2.0
 
-  '@nervosnetwork/ckb-sdk-utils@0.109.1':
+  '@nervosnetwork/ckb-sdk-utils@0.109.2':
     dependencies:
-      '@nervosnetwork/ckb-types': 0.109.1
+      '@nervosnetwork/ckb-types': 0.109.2
       bech32: 2.0.0
       elliptic: 6.5.4
       jsbi: 3.1.3
       tslib: 2.3.1
 
-  '@nervosnetwork/ckb-types@0.109.1': {}
+  '@nervosnetwork/ckb-types@0.109.2': {}
 
   '@noble/curves@1.2.0':
     dependencies:
       '@noble/hashes': 1.3.2
+
+  '@noble/curves@1.4.2':
+    dependencies:
+      '@noble/hashes': 1.4.0
 
   '@noble/hashes@1.3.2': {}
 
@@ -2370,9 +2398,9 @@ snapshots:
 
   '@types/lodash.isequal@4.5.8':
     dependencies:
-      '@types/lodash': 4.17.6
+      '@types/lodash': 4.17.7
 
-  '@types/lodash@4.17.6': {}
+  '@types/lodash@4.17.7': {}
 
   '@types/node@18.15.13': {}
 
@@ -2472,10 +2500,6 @@ snapshots:
 
   '@ungap/structured-clone@1.2.0': {}
 
-  '@unisat/wallet-utils@1.0.0':
-    dependencies:
-      bitcore-lib: 10.0.36
-
   '@vitejs/plugin-react@4.3.1(vite@5.3.2(@types/node@18.15.13))':
     dependencies:
       '@babel/core': 7.24.7
@@ -2546,34 +2570,32 @@ snapshots:
 
   balanced-match@1.0.2: {}
 
-  base-x@3.0.9:
+  base-x@3.0.10:
     dependencies:
       safe-buffer: 5.2.1
 
   base64-js@1.5.1: {}
 
+  bech32@1.1.4: {}
+
   bech32@2.0.0: {}
 
-  bigi@1.4.2: {}
-
-  bip-schnorr@0.6.4:
+  bindings@1.5.0:
     dependencies:
-      bigi: 1.4.2
-      ecurve: 1.0.6
-      js-sha256: 0.9.0
-      randombytes: 2.1.0
+      file-uri-to-path: 1.0.0
+
+  bip66@1.1.5:
+    dependencies:
       safe-buffer: 5.2.1
 
-  bitcore-lib@10.0.36:
+  bitcoinjs-message@2.2.0:
     dependencies:
-      bech32: 2.0.0
-      bip-schnorr: 0.6.4
-      bn.js: 4.11.8
-      bs58: 4.0.1
-      buffer-compare: 1.1.1
-      elliptic: 6.5.5
-      inherits: 2.0.1
-      lodash: 4.17.21
+      bech32: 1.1.4
+      bs58check: 2.1.2
+      buffer-equals: 1.0.4
+      create-hash: 1.2.0
+      secp256k1: 3.8.0
+      varuint-bitcoin: 1.1.2
 
   blake2b-wasm@2.4.0:
     dependencies:
@@ -2584,8 +2606,6 @@ snapshots:
     dependencies:
       blake2b-wasm: 2.4.0
       nanoassert: 2.0.0
-
-  bn.js@4.11.8: {}
 
   bn.js@4.12.0: {}
 
@@ -2663,9 +2683,15 @@ snapshots:
 
   bs58@4.0.1:
     dependencies:
-      base-x: 3.0.9
+      base-x: 3.0.10
 
-  buffer-compare@1.1.1: {}
+  bs58check@2.1.2:
+    dependencies:
+      bs58: 4.0.1
+      create-hash: 1.2.0
+      safe-buffer: 5.2.1
+
+  buffer-equals@1.0.4: {}
 
   buffer-xor@1.0.3: {}
 
@@ -2830,10 +2856,11 @@ snapshots:
 
   domain-browser@4.23.0: {}
 
-  ecurve@1.0.6:
+  drbg.js@1.0.1:
     dependencies:
-      bigi: 1.4.2
-      safe-buffer: 5.2.1
+      browserify-aes: 1.2.0
+      create-hash: 1.2.0
+      create-hmac: 1.1.7
 
   electron-to-chromium@1.4.814: {}
 
@@ -2973,7 +3000,7 @@ snapshots:
 
   esutils@2.0.3: {}
 
-  ethers@6.13.1:
+  ethers@6.13.2:
     dependencies:
       '@adraffy/ens-normalize': 1.10.1
       '@noble/curves': 1.2.0
@@ -3016,6 +3043,8 @@ snapshots:
   file-entry-cache@6.0.1:
     dependencies:
       flat-cache: 3.2.0
+
+  file-uri-to-path@1.0.0: {}
 
   fill-range@7.1.1:
     dependencies:
@@ -3141,7 +3170,7 @@ snapshots:
 
   ignore@5.3.1: {}
 
-  immutable@4.3.6: {}
+  immutable@4.3.7: {}
 
   import-fresh@3.3.0:
     dependencies:
@@ -3154,8 +3183,6 @@ snapshots:
     dependencies:
       once: 1.4.0
       wrappy: 1.0.2
-
-  inherits@2.0.1: {}
 
   inherits@2.0.4: {}
 
@@ -3198,8 +3225,6 @@ snapshots:
   isexe@2.0.0: {}
 
   isomorphic-timers-promises@1.0.1: {}
-
-  js-sha256@0.9.0: {}
 
   js-tokens@4.0.0: {}
 
@@ -3256,8 +3281,6 @@ snapshots:
 
   lodash.merge@4.6.2: {}
 
-  lodash@4.17.21: {}
-
   loose-envify@1.4.0:
     dependencies:
       js-tokens: 4.0.0
@@ -3301,6 +3324,8 @@ snapshots:
       brace-expansion: 2.0.1
 
   ms@2.1.2: {}
+
+  nan@2.20.0: {}
 
   nanoassert@2.0.0: {}
 
@@ -3551,6 +3576,17 @@ snapshots:
     dependencies:
       loose-envify: 1.4.0
 
+  secp256k1@3.8.0:
+    dependencies:
+      bindings: 1.5.0
+      bip66: 1.1.5
+      bn.js: 4.12.0
+      create-hash: 1.2.0
+      drbg.js: 1.0.1
+      elliptic: 6.5.5
+      nan: 2.20.0
+      safe-buffer: 5.2.1
+
   semver@6.3.1: {}
 
   semver@7.6.2: {}
@@ -3684,6 +3720,10 @@ snapshots:
       is-generator-function: 1.0.10
       is-typed-array: 1.1.13
       which-typed-array: 1.1.15
+
+  varuint-bitcoin@1.1.2:
+    dependencies:
+      safe-buffer: 5.2.1
 
   vite-plugin-node-polyfills@0.22.0(rollup@4.18.0)(vite@5.3.2(@types/node@18.15.13)):
     dependencies:
